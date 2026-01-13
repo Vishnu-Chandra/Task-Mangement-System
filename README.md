@@ -3,6 +3,12 @@
 A full-stack web application that allows users to securely register, log in, and manage their personal tasks.  
 Built as part of the **Full Stack Developer Intern – Technical Assignment (Ardentix)**.
 
+## 🌍 Live Demo
+
+- **Frontend (Vercel):** https://task-mangement-system-chi.vercel.app  
+
+- **Backend API (Render):** https://task-mangement-system-j8b1.onrender.com
+
 ---
 
 ## 🚀 Features
