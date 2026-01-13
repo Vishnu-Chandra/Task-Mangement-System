@@ -100,7 +100,7 @@ task-manager/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone <https://github.com/Vishnu-Chandra/Task-Mangement-System>
 cd task-manager
 ```
 
